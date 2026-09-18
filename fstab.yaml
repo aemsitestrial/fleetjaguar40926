@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:8443/bin/franklin.delivery/aemsitestrial/fleetjaguar40926/main"
+    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/aemsitestrial/fleetjaguar40926/main"
     type: "markup"
     suffix: ".html"
